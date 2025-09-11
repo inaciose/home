@@ -232,6 +232,7 @@ SkipMoveUp
         inx
 SkipMoveDown
 	stx YPos0
+        ;stx YPos1
 ; Move horizontally
         ldx XPos0
 	lda #%01000000	;Left?
@@ -249,19 +250,20 @@ SkipMoveLeft
         inx
 SkipMoveRight
 	stx XPos0
+        ;stx XPos1
         
 ; Move vertically
 ; (up and down are actually reversed since ypos starts at bottom)
 	ldx YPos1
-	lda #%00100000	;Up?
-	bit SWCHB
+	lda #%00000010	;Up?
+	bit SWCHA
 	bne SkipMoveUp1
         cpx #175
         bcc SkipMoveUp1
         dex
 SkipMoveUp1
-	lda #%00010000	;Down?
-	bit SWCHB 
+	lda #%00000001	;Down?
+	bit SWCHA 
 	bne SkipMoveDown1
         cpx #254
         bcs SkipMoveDown1
@@ -270,15 +272,15 @@ SkipMoveDown1
 	stx YPos1
 ; Move horizontally
         ldx XPos1
-	lda #%01000000	;Left?
-	bit SWCHB
+	lda #%00000100	;Left?
+	bit SWCHA
 	bne SkipMoveLeft1
         cpx #1
         bcc SkipMoveLeft1
         dex
 SkipMoveLeft1
-	lda #%10000000	;Right?
-	bit SWCHB 
+	lda #%00001000	;Right?
+	bit SWCHA 
 	bne SkipMoveRight1
         cpx #153
         bcs SkipMoveRight1
