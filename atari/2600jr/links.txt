@@ -1,0 +1,64 @@
+https://8bitworkshop.com/
+https://8bitworkshop.com/docs/platforms/vcs/
+
+https://stella-emu.github.io/docs/index.html
+
+https://www.instructables.com/ATARI-2600-Video-Composite-mod/
+https://www.ebay.com/itm/303092047733
+
+https://www.randomterrain.com/atari-2600-memories-tia-color-charts.html
+
+https://www.instructables.com/Atari-2600-ROM-Cartridge/
+
+https://www.vinted.pt/items/6126343309-manette-atari-2600-jr
+https://www.vinted.pt/items/6719265889-space-invaders-atari-2600?referrer=catalog
+
+
+MOVE THE LINKS BELLOW 
+
+RC2014 - CP/M
+
+https://www.smbaker.com/z80-retrocomputing-11-cpm-on-the-rc2014
+https://www.smbaker.com/wordpress/wp-content/uploads/2016/09/rc2014-ramrom-schematic.jpg
+
+https://feilipu.me/2022/03/23/cpm-ide-for-rc2014/
+
+http://searle.x10host.com/cpm/CPMSchematic1.2.gif
+
+https://pinoutguide.com/Memory/CompactFlash_pinout.shtml
+https://allpinouts.org/pinouts/connectors/memory/compactflash/
+
+https://rc2014.co.uk/1458/simple-guide-to-getting-cpm-running-on-rc2014/
+
+RC2014 - MSX
+https://hackaday.io/project/190408-msx-on-rc2014
+https://peacockmedia.software/MSX2014/
+
+https://hackaday.io/project/175574-msx-compatible-boards-for-rc2014
+https://github.com/dinoboards/yellow-msx-series-for-rc2014
+https://www.dinoboards.com.au/msx-memory.html
+
+https://hackaday.io/project/191880-emulated-tms9918a-using-rp2040dvi
+
+
+GALs
+https://ww1.microchip.com/downloads/en/DeviceDoc/doc0737.pdf
+https://pages.uoregon.edu/torrence/432/docs/CUPL.html
+
+https://estebon.mx/?p=165
+https://estebon.mx/?p=151
+https://estebon.mx/?p=135
+https://estebon.mx/?p=133
+
+
+https://stackoverflow.com/questions/2991701/making-a-simple-2-bit-asynchronous-counter-in-wincupl
+https://www.google.com/search?q=wincupl+flip+flop+gal22v10+example&sca_esv=0552b0ba02155725&sxsrf=AE3TifMSyzFeKcVDygbxrofaClDVQBbxgg%3A1758211302618&ei=5izMaJSrJcOvi-gP4YLWWQ&ved=0ahUKEwiUtofB1-KPAxXD1wIHHWGBNQsQ4dUDCBA&uact=5&oq=wincupl+flip+flop+gal22v10+example&gs_lp=Egxnd3Mtd2l6LXNlcnAiIndpbmN1cGwgZmxpcCBmbG9wIGdhbDIydjEwIGV4YW1wbGUyBRAAGO8FMgUQABjvBTIIEAAYgAQYogRIl40CUJwPWMmDAnADeAGQAQCYAeIBoAHnJKoBBjAuMzMuMbgBA8gBAPgBAfgBApgCJaACySfCAgoQABiwAxjWBBhHwgIKECEYoAEYwwQYCpgDAIgGAZAGBJIHBjMuMzMuMaAHp2yyBwYwLjMzLjG4B6YnwgcHMi0xNS4yMsgHqQI&sclient=gws-wiz-serp
+
+
+POWER SUPPLY
+
+https://www.eleccircuit.com/0-60-volt-dc-variable-power-supply-using-lm317lm337/
+https://www.eleccircuit.com/wp-content/uploads/2018/12/0-60-volt-dc-variable-power-supply-using-lm317-lm337.png
+
+
+RETRO GENERAL
